@@ -1,0 +1,179 @@
+body{
+    color: #333333;
+}
+.nav-link{
+    color: #000;
+    font-size: 0.7em;
+    border-right: 1px solid #000000;
+    padding: 0;
+}
+.nav-link:hover{
+    background-color: #ffffff;
+    color:#000000;
+}
+.hred:hover{
+    color: #ff0000;
+}
+
+#nav{
+    background-color: #ffe92a;
+    padding: 5px 5px 5px 0;
+}
+main{
+    margin-top: 4px;
+
+}
+
+.iconhead {
+    color: #999999;
+    padding: 5px;
+    font-size: 11px;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-bottom: 1px solid #999999;
+}
+.headlines a{
+    color: #000;
+    font-size: 0.75em;
+}
+.headlines button{
+    border: 1px solid #999999;
+    color: #999999;
+    padding: 0 20px;
+    font-size: 0.6em;
+    border-radius: 0;
+    text-align: center;
+    position: relative;
+    left:17px;
+    bottom: -5px;
+    text-transform: uppercase;
+
+}
+.ickonews{
+    font-size: 0.9em;
+    color: #333;
+    font-weight: bold;
+}
+.ickonews+p{
+    font-size: 0.75em;
+
+}
+
+.btn-link:hover{
+    color: #ff0000;
+    text-decoration: none;
+    border-color: #ff0000;
+}
+.club_img{
+    display: flex;
+    padding: 1px;
+}
+.table{
+    font-size: 0.65em;
+    padding: 2px;
+}
+.table th{
+    text-transform: uppercase;
+
+}
+.fti{
+    text-align: right;
+}
+.sti{
+    text-align: center;
+}
+.sti a{
+    color: #551a8b;
+
+}
+th span{
+    font-size: 0.8em;
+
+}
+.celtaspan{
+    font-style: italic;
+    font-size: 0.75em;
+}
+.celtaspan+span{
+    font-weight: bold;
+    font-size: 0.75em;
+}
+.input-group{
+    font-size: 11px;
+    color: #000;
+}
+.fa-twitter-square{
+    color:#55acee ;
+    font-size: 25px;
+
+}
+.twitter{
+    color: #999999;
+    position: relative;
+    font-weight: bold;
+}
+.twitter span{
+    position: relative;
+    bottom: 8px;
+    color: #999999;
+
+}
+.twitter a:hover{
+    text-decoration: none;
+}
+.calcioItalia{
+    margin-top: 4px;
+}
+.calcioItalia img{
+    border: 1px solid #000000;
+    padding: 10px 4px;
+}
+.footer{
+    background-color: #ffe92a;
+    font-size: 0.8em;
+    margin-top: 5px;
+    text-align: center;
+}
+.footer a{
+    font-weight: bold;
+    color: #000;
+    text-transform: capitalize;
+}
+.line{
+    border-left: 1px solid #000000;
+    padding: 2px;
+}
+.btn-primary{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(54, 139, 214);
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+
+}
+.btn-primary:hover{
+    background-color: rgb(54, 139, 214);
+}
+.contact{
+    border-right: 1px solid #000000;
+    border-left: 1px solid #000000;
+    padding: 2px;
+
+}
+@media (min-width: 576px) { 
+
+    
+}
+
+@media (min-width: 768px) { 
+    
+}
+
+@media (min-width: 992px) { 
+    
+}
+
+@media (min-width: 1200px) { 
+    
+}
